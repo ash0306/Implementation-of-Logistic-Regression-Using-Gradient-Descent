@@ -24,8 +24,6 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 14. Plot the decision boundary along with the data points.
 15. Calculate the probability of admission for a student with exam scores [45, 85].
 16. Define a function to predict the class labels based on the learned parameters.
-17. Calculate the accuracy of the model by comparing the predicted labels with the actual labels.
-18. Print the accuracy of the model
 
 
 ## Program:
